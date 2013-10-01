@@ -1,0 +1,4 @@
+polynoms
+========
+
+C++ polynoms library
